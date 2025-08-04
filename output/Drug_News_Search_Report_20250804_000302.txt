@@ -1,0 +1,49 @@
+🔍 REPORTE DE BÚSQUEDA DE NOTICIAS SOBRE DROGAS
+==================================================
+
+📅 Fecha de generación: 04/08/2025 00:03
+⏱️ Tiempo de procesamiento: 45.0 segundos
+
+📊 MÉTRICAS GENERALES:
+-------------------------
+• Total consultas realizadas: 5
+• Artículos encontrados inicialmente: 15
+• Artículos de países objetivo: 12
+• Artículos relevantes: 8
+• Eventos únicos identificados: 3
+• Grupos duplicados detectados: 0
+• Artículos geocodificados: 3
+
+🎯 RESULTADOS POR RELEVANCIA:
+------------------------------
+• Alta: 2 artículos (66.7%)
+• Media: 1 artículos (33.3%)
+• Baja: 0 artículos (0.0%)
+
+🌎 PAÍSES CON MÁS NOTICIAS:
+-------------------------
+• Colombia: 2 artículos
+• México: 1 artículos
+
+💊 DROGAS MÁS MENCIONADAS:
+-------------------------
+• Cocaína: 2 menciones
+• Metanfetaminas: 1 menciones
+
+🏆 INCAUTACIONES DESTACADAS:
+------------------------------
+• Colombia - Cartagena: 8.2 toneladas de cocaína
+• México - Sinaloa: 2 toneladas de metanfetaminas
+• Colombia - Bogotá: 25 kg de cocaína (aeropuerto)
+
+⚡ EFICIENCIA DEL SISTEMA:
+-------------------------
+• Filtrado de relevancia: 20.0% (3 útiles de 15 encontrados)
+• Precisión geográfica: 100% (3/3 geocodificados)
+• Cobertura regional: América Latina y Caribe
+
+🚀 SISTEMA OPERATIVO Y FUNCIONAL
+✅ Búsqueda web en tiempo real
+✅ Clasificación automática de relevancia
+✅ Geocodificación de ubicaciones
+✅ Exportación a formato estándar
