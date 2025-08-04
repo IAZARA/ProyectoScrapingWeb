@@ -1,0 +1,54 @@
+# Sistema de Inteligencia sobre Drogas - Dependencias
+
+# APIs y conectividad
+requests>=2.32.0
+openai>=1.98.0
+dashscope>=1.24.0
+qwen-agent>=0.0.29
+
+# Procesamiento de datos
+pandas>=2.0.0
+numpy>=1.24.0
+python-dateutil>=2.9.0
+
+# Análisis de texto y ML
+scikit-learn>=1.3.0
+
+# Manejo de archivos y configuración
+python-dotenv>=1.1.0
+json5>=0.12.0
+jsonlines>=4.0.0
+jsonschema>=4.25.0
+
+# Herramientas de desarrollo
+tiktoken>=0.9.0
+eval_type_backport>=0.2.0
+
+# Procesamiento de fechas y tiempo
+six>=1.17.0
+
+# Regex y validación
+regex>=2025.7.0
+
+# Validación de datos
+pydantic>=2.11.0
+typing-extensions>=4.14.0
+
+# HTTP y networking
+httpx>=0.28.0
+urllib3>=2.5.0
+certifi>=2025.8.0
+
+# Async y concurrencia
+anyio>=4.9.0
+aiohttp>=3.12.0
+
+# Criptografía (para APIs seguras)
+cryptography>=45.0.0
+
+# WebSocket (para APIs en tiempo real)
+websocket-client>=1.8.0
+
+# Utilidades adicionales
+tqdm>=4.67.0
+attrs>=25.3.0
